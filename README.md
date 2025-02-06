@@ -27,7 +27,7 @@ Software Developer in Lancaster, PA
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/kyle-hollett-8558842a8/))
 
 ### 📈 Contribution Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=kyhol&theme=github)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kyhol&theme=github-dark&hide_border=true)
 <!--
 **kyhol/kyhol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
